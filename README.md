@@ -1,4 +1,4 @@
-# Chronic Obstructive Pulmonary Disease Detection using ML and Ensemble Learning
+# Chronic Obstructive Pulmonary Disease Detection using ML algorithms and Ensemble Learning
 
 ## Comaprision of 8 different Machine Learning Algorithms
 1. Support Vector Machines (SVM)

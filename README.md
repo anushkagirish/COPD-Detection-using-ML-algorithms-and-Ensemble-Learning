@@ -16,7 +16,7 @@ Algorithm with Max Accuracy  : **Decison Trees**
 Accuracy : **0.9047619047619048**
 
 ## Building an Ensemble Model 
-By making combinations of 2 to 3 models from the 8 and comapring to get the combination with maximum accuracy
+By making combinations of 2 to 3 models from the 8 and comapring to get the combination with maximum accuracy.
 
 ![image](https://github.com/anushkagirish/COPD-Detection-using-ML-and-Ensemble-Learning/assets/95099374/c75187c7-8fb0-4332-ac9b-afde255e1a83)
 

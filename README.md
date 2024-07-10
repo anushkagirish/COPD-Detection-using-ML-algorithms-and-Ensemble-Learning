@@ -1,4 +1,4 @@
-# Chronic Obstructive Pulmonary Disease Detection using ML algorithms and Ensemble Learning
+# Chronic Obstructive Pulmonary Disease Detection(COPD) using ML algorithms and Ensemble Learning
 
 ## Comaprision of 8 different Machine Learning Algorithms
 1. Support Vector Machines (SVM)
@@ -29,7 +29,7 @@ Accuracy : **0.9523809523809523**
 
 ## Conclusion
 
-Max Accuracy found in Ensemble Model of the following:
+Max Accuracy was found in Ensemble Model of the following:
 1. SVM
 2. DBN
 3. LogisticRegression
